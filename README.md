@@ -37,11 +37,11 @@
 - - - - - - - - - -
 
 ## توضیحات کد
-. بارگذاری مدل تشخیص چهره --> cv2.CascadeClassifier
-. خواندن تصویر ورودی --> cv2.imread
-. شناسایی چهره‌ها در تصویر --> detectMultiScale
-. رسم مستطیل دور چهره‌ها --> cv2.rectangle
-. نمایش تصویر خروجی --> cv2.imshow
+- بارگذاری مدل تشخیص چهره --> cv2.CascadeClassifier
+- خواندن تصویر ورودی --> cv2.imread
+- شناسایی چهره‌ها در تصویر --> detectMultiScale
+- رسم مستطیل دور چهره‌ها --> cv2.rectangle
+- نمایش تصویر خروجی --> cv2.imshow
 
 - - - - - - - - - -
 
@@ -49,4 +49,3 @@
 ![تصویر آزمایشی](test_image.jpg)
 ![تصویر خروجی 1](output_image1.png)
 ![تصویر خروجی 2](output_image2.png)
-!
